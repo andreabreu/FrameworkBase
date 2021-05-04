@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "P:\\Framework\\Framework.Console.Test\\Framework.Console.Test.csproj": {}
+  },
+  "projects": {
+    "P:\\Framework\\Framework.Console.Test\\Framework.Console.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "P:\\Framework\\Framework.Console.Test\\Framework.Console.Test.csproj",
+        "projectName": "Framework.Console.Test",
+        "projectPath": "P:\\Framework\\Framework.Console.Test\\Framework.Console.Test.csproj",
+        "packagesPath": "C:\\Users\\I\\.nuget\\packages\\",
+        "outputPath": "P:\\Framework\\Framework.Console.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\I\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/AQCSA/_packaging/AQC-Core/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
